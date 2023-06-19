@@ -205,7 +205,7 @@ const projects = [
     visit: "https://ecomvision-tnbe.onrender.com",
   },
   {
-    name: "Authentification System",
+    name: "Authentication System",
     description:
       "I have also developed an exceptional Authentication System with a robust UI and efficient state management. This project offers secure user authentication and authorization functionalities, ensuring the confidentiality of sensitive information. Utilizing modern frontend frameworks such as React and state management with the Context api.",
     tags: [
